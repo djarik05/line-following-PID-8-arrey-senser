@@ -49,7 +49,7 @@ This project features **automatic calibration**, **PID control**, **sharp 90° t
 - TB6612FNG Motor Driver
 - 2 N20 moter
 - Robot chassis + wheels
--  Li-Po battery (7–12 V)
+-  Li-Po battery 7.4v
 
 ---
 
